@@ -156,7 +156,6 @@ journalctl -u system-report.service
 
 **مستندات و مقالات**
 
-- [ShellCheck](https://www.shellcheck.net/wiki/) — راهنمای خطاها و پیشنهادهای ShellCheck
 - [۱۰۵.۲ - سفارشی‌سازی یا نوشتن اسکریپت‌های ساده - کتاب LPIC1 جادی](https://linux1st.com/1052-customize-or-write-simple-scripts.html) — مقالهٔ مرتبط با نوشتن اسکریپت‌های shell، شرط و حلقه
 - [۱۰۷.۲ - خودکارسازی کارهای مدیریتی با زمان‌بندی jobها - کتاب LPIC1 جادی](https://linux1st.com/1072-automate-system-administration-tasks-by-scheduling-jobs.html) — مقالهٔ مرتبط با cron و زمان‌بندی کارها
 
