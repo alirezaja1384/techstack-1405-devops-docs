@@ -89,13 +89,12 @@ sudo journalctl -u ssh.service -f
 
 **مستندات و مقالات**
 
-- [procps ps Manual](https://man7.org/linux/man-pages/man1/ps.1.html) — گزینه‌ها و خروجی `ps`
-- [systemctl Manual](https://www.freedesktop.org/software/systemd/man/latest/systemctl.html) — مرجع کنترل unitهای systemd
-- [journalctl Manual](https://www.freedesktop.org/software/systemd/man/latest/journalctl.html) — پالایش و خواندن journal
 - [systemd for Administrators](https://gist.github.com/bcremer/8cdf6900c35dda65f387) — آموزش جامع مفاهیم و کاربردهای systemd
+- [۱۰۳.۵ - ایجاد، پایش و پایان‌دادن به فرایندها - کتاب LPIC1 جادی](https://linux1st.com/1035-create-monitor-and-kill-processes.html) — مقالهٔ مرتبط با مدیریت فرایندها و سیگنال‌ها
+- [۱۰۸.۲ - لاگ‌های سیستم - کتاب LPIC1 جادی](https://linux1st.com/1082-system-logging.html) — مقالهٔ مرتبط با لاگ‌های سیستمی، rsyslog و journal - بخش journalctl مدنظر است
 
 **ویدیو**
 
 - [الپیک ۱ - ۰۳۳ - ۱۰۳.۵ - مدیریت پروسه‌ها در لینوکس (۳ قسمت) - جادی](https://www.youtube.com/watch?v=PUc24E2PTa8&list=PL7ePwBdxM4nswZ62DvL58yJZ9W4-hOLLB&index=34) — آشنایی با مدیریت processها در Linux
-- [الپیک ۱ - ۰۰۸ - ۱۰۱.۲ - قسمت ۲/۲ - روند boot شدن سیستم؛ systemd، System V، journal و لاگ‌ها - جادی](https://www.youtube.com/watch?v=qdS_nT-iRJQ&list=PL7ePwBdxM4nswZ62DvL58yJZ9W4-hOLLB&index=8) — مرور روند boot، systemd، journal و بررسی لاگ‌ها
+- [ الپیک ۱ - ۰۶۵ - ۱۰۸.۲ - ۳/۳ - لاگ‌های سیستم، بررسی و مدیریت لاگ‌ها با journalctl از systemd](https://www.youtube.com/watch?v=1_wf9O9QHCA&list=PL7ePwBdxM4nswZ62DvL58yJZ9W4-hOLLB&index=65) — آشنایی با مدیریت لا‌گ‌ها با journalctl در لینوکس
 - [systemd Explained - Learn Linux TV](https://www.youtube.com/watch?v=Kzpm-rGAXos) — معرفی نقش systemd در مدیریت سرویس‌ها

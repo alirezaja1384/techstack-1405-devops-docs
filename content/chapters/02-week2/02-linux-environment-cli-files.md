@@ -123,7 +123,7 @@ cp "release notes"/notes.txt ./
 **مستندات و مقالات**
 
 - [The Linux Command Line for Beginners - Ubuntu](https://ubuntu.com/tutorials/command-line-for-beginners) — شروعی کوتاه برای کار با ترمینال
-- [GNU Coreutils Manual](https://www.gnu.org/software/coreutils/manual/coreutils.html) — مرجع کامل دستورهای پایه مانند `ls`، `cp` و `rm`
+- [۱۰۳.۱ - کار در خط فرمان - کتاب LPIC1 جادی](https://linux1st.com/1031-work-on-the-command-line.html) — مقالهٔ مرتبط با shell، متغیرهای محیطی و history
 
 **ویدیو**
 
