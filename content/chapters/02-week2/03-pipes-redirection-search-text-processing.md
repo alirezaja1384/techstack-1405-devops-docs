@@ -120,10 +120,9 @@ pipelineهای طولانی را مرحله‌به‌مرحله بسازید. ا
 
 **مستندات و مقالات**
 
-- [GNU Grep Manual](https://www.gnu.org/software/grep/manual/grep.html) — مرجع `grep` و الگوهای جست‌وجو
-- [GNU Findutils Manual](https://ftp.gnu.org/old-gnu/Manuals/findutils-4.1/html_mono/find.html) — مرجع `find` و `xargs`
-- [The GNU Awk User's Guide](https://www.gnu.org/software/gawk/manual/gawk.html) — مرجع `awk` برای مراجعه هنگام نیاز
-- [Bash Redirections](https://www.gnu.org/software/bash/manual/html_node/Redirections.html) — توضیح دقیق Redirection در Bash
+- [۱۰۳.۲ - پردازش استریم‌های متنی با فیلترها - کتاب LPIC1 جادی](https://linux1st.com/1032-process-text-streams-using-filters.html) — مقالهٔ مرتبط با فیلترهای پردازش متن و ترکیب دستورها
+- [۱۰۳.۳ - مدیریت پایهٔ فایل‌ها - کتاب LPIC1 جادی](https://linux1st.com/1033-perform-basic-file-management.html) — مقالهٔ مرتبط با کپی، جابه‌جایی و حذف فایل‌ها و دایرکتوری‌ها
+- [۱۰۳.۴ - استفاده از استریم‌ها، Pipeها و Redirectها - کتاب LPIC1 جادی](https://linux1st.com/1034-use-streams-pipes-and-redirects.html) — مقالهٔ مرتبط با stdin، stdout، Redirection و Pipe
 
 **ویدیو**
 

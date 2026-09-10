@@ -156,10 +156,9 @@ journalctl -u system-report.service
 
 **مستندات و مقالات**
 
-- [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html) — مرجع زبان و رفتار Bash
 - [ShellCheck](https://www.shellcheck.net/wiki/) — راهنمای خطاها و پیشنهادهای ShellCheck
-- [crontab Manual](https://man7.org/linux/man-pages/man5/crontab.5.html) — قالب و رفتار کارهای cron
-- [systemd.timer Manual](https://www.freedesktop.org/software/systemd/man/latest/systemd.timer.html) — تعریف و زمان‌بندی timerهای systemd
+- [۱۰۵.۲ - سفارشی‌سازی یا نوشتن اسکریپت‌های ساده - کتاب LPIC1 جادی](https://linux1st.com/1052-customize-or-write-simple-scripts.html) — مقالهٔ مرتبط با نوشتن اسکریپت‌های shell، شرط و حلقه
+- [۱۰۷.۲ - خودکارسازی کارهای مدیریتی با زمان‌بندی jobها - کتاب LPIC1 جادی](https://linux1st.com/1072-automate-system-administration-tasks-by-scheduling-jobs.html) — مقالهٔ مرتبط با cron و زمان‌بندی کارها
 
 **ویدیو**
 

@@ -111,16 +111,17 @@ sudo dnf upgrade
 
 **مستندات و مقالات**
 
-- [Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html) — مرجع محل فایل‌ها و دایرکتوری‌ها
 - [User management - Ubuntu Server Documentation](https://ubuntu.com/server/docs/how-to/security/user-management/) — مدیریت کاربر و گروه در Ubuntu
-- [Permissions - Ubuntu Community Help Wiki](https://help.ubuntu.com/community/FilePermissions) — شرح خوانا برای مجوز و مالکیت
-- [APT User's Guide](https://www.debian.org/doc/manuals/apt-guide/index.en.html) — استفاده‌ی پایه از APT
-- [DNF Documentation](https://dnf.readthedocs.io/en/latest/) — مرجع DNF
+- [Permissions - Ubuntu Community Help Wiki](https://help.ubuntu.com/community/FilePermissions) — شرح مفصل مجوز و مالکیت
+- [۱۰۴.۵ - مدیریت مجوز و مالکیت فایل‌ها - کتاب LPIC1 جادی](https://linux1st.com/1045-manage-file-permissions-and-ownership.html) — مقالهٔ مرتبط با مجوزها، مالکیت و دسترسی فایل‌ها
+- [۱۰۴.۶ - ساخت و تغییر hard link و symbolic link - کتاب LPIC1 جادی](https://linux1st.com/1046-create-and-change-hard-and-symbolic-links.html) — مقالهٔ مرتبط با linkها و تفاوت hard و soft link
+- [۱۰۴.۷ - پیدا کردن فایل‌های سیستم و قرار دادن فایل‌ها در محل درست - کتاب LPIC1 جادی](https://linux1st.com/1047-find-system-files-and-place-files-in-the-correct-location.html) — مقالهٔ مرتبط با FHS و محل فایل‌ها در لینوکس
+- [۱۰۲.۴ - استفاده از مدیریت بستهٔ Debian - کتاب LPIC1 جادی](https://linux1st.com/1024-use-debian-package-management.html) — مقالهٔ مرتبط با `apt` و مدیریت بسته در توزیع‌های Debian
 
 **ویدیو**
 
 - [Linux File Permissions - freeCodeCamp](https://www.youtube.com/watch?v=LnKoncbQBsM) — مرور عملی مالکیت و `chmod`
-- [الپیک ۱ - ۰۱۱ - ۱۰۲.۱ - طراحی ترکیب هارددیسک - استاندارد سلسله‌مراتبی فایل‌سیستم FHS - جادی](https://www.youtube.com/watch?v=eVrkF3fJ7LM&list=PL7ePwBdxM4nswZ62DvL58yJZ9W4-hOLLB&index=11) — آشنایی با FHS و سازمان‌دهی فایل‌ها روی دیسک
 - [الپیک ۱ - ۰۴۶ - ۱۰۴.۵ - یوزر و گروه و دسترسی‌ها در دنیای لینوکس (۲ قسمت) - جادی](https://www.youtube.com/watch?v=CEW_ozeLeK0&list=PL7ePwBdxM4nswZ62DvL58yJZ9W4-hOLLB&index=47) — آموزش userها، groupها و permissionها در Linux
+- [الپیک ۱ - ۰۴۸ - ۱۰۴.۶ - هارد و سافت لینک‌ها در لینوکس؛ مفهوم، استفاده و کاربرد](https://www.youtube.com/watch?v=35vB01RcqgM&list=PL7ePwBdxM4nswZ62DvL58yJZ9W4-hOLLB&index=48) — آموزش کار با soft link و hard link و تفاوت آن‌ها
 - [الپیک ۱ - ۰۴۹ - ۱۰۴.۷ - ساختار سلسله‌مراتبی فایل‌سیستم یونیکس و لینوکس و پیدا کردن جای فایل‌ها - جادی](https://www.youtube.com/watch?v=hO6qK-i3cXc&list=PL7ePwBdxM4nswZ62DvL58yJZ9W4-hOLLB&index=50) — مرور ساختار فایل‌سیستم و پیدا کردن فایل‌ها با ابزارهای لینوکسی
 - [الپیک ۱ - ۰۱۷ - کار با package managerهای دبیانی - درک مفهوم منابع نرم‌افزاری و repository (۲ قسمت) - جادی](https://www.youtube.com/watch?v=6Hu4EtLuHo0&list=PL7ePwBdxM4nswZ62DvL58yJZ9W4-hOLLB&index=17) — آشنایی با مدیریت منابع نرم‌افزاری در توزیع‌های مبتنی بر Debian
